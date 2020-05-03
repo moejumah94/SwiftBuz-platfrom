@@ -1,0 +1,7 @@
+Username: yS7P132OVX
+
+Database name: yS7P132OVX
+
+Password: SaMkdRD3Tp
+
+Server: remotemysql.com
