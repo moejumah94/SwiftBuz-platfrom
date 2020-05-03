@@ -1,0 +1,2 @@
+# SwiftBuz-platfrom
+This is application that works like a hub for the company enabling virtual working environment possible, at this moment the communication aspect of this system is enabled and fully functional, however the AI bots for requesting forms and other services are still in hold. this is a working progress and challenging effort is required to complete the system entire network and to populated with AI functions and capabilities. Feel free to contribute as the application development sole purpose is Educational.
